@@ -63,7 +63,14 @@ nav a:hover{
     color: #fff; 
     width: 100%;
 }
-#photo{
-    position: relative;
-    left: 525px;
+
+
+#pic {
+	float: right;
+}
+#text {
+	margin-right: 110px;
+}
+#h {
+	text-align: center;
 }
